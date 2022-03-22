@@ -10,7 +10,7 @@ namespace GirKonfliktusKezeles
     {
         static void Main(string[] args)
         {
-            string nev1;
+            string nev1 = "CsP";
             string nev2;
         }
     }
